@@ -10,5 +10,5 @@ managedNodeGroups:
   #minSize: 1 
   #maxSize: 3 
   instanceType: m5.large
-  desiredCapacity: 2
+  desiredCapacity: 3
   spot: true
